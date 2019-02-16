@@ -1,4 +1,4 @@
 # hello-world
 Hello World repository
-Hi,
-I am Paras Mehan
+Hi,\n
+I am Paras Mehan\n
